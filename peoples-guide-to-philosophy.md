@@ -83,6 +83,8 @@ The next area is reasoning. This is an important area to discuss because princip
 
 Reasoning is so thoroughly related to language that it's impossible for us to discuss reasoning without discussing language. The study of reasoning provides an unusally clear context in which to discuss language, so that I have found it most useful to carry out the discussion of reasoning and language in parallel, as one topic: **language and reasoning**.
 
+XXX: history, values
+
 
 
 
