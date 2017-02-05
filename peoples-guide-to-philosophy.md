@@ -8,9 +8,9 @@ Human thought and decision making is almost invariably based on principles of re
 
 Philosophy is concerned with the principles of reasoning that apply in all areas of life. It's also concerned with the process of formulating and refining the values which we apply in making decisions in all areas of life.
 
-Philosophy is important for our self-improvement and the pursuit of our objectives for ourselves. We can best succeed in life by having a clear conception of what we value, and by formulating rational plans to pursue what we value.
+Philosophy is valuable for our self-improvement and the pursuit of our objectives for ourselves. We can best succeed in life by having a clear conception of what we value, and by formulating rational plans to pursue what we value. We can best succeed in life by analyzing ourselves and the consequences of our actions in order to arrive at actionable conclusions about how we can best pursue self-improvement and how we can act more effectively in the world.
 
-Philosophy is also important for improving and sustaining our relationships with others. In human relationships there are usually disagreements, and these are most likely to reach a peaceful, productive solution when addressed through reasonable discussion. Therefore having a solid grasp of good principles of reasoning, as part of the general principles and etiquette of constructive communication and conflict resolution, should help us to sustain harmonious and successful relationships with others.
+Philosophy is also valuable for improving and sustaining our relationships with others. In human relationships there are usually disagreements, and these are most likely to reach a peaceful, productive solution when addressed through reasonable discussion. Therefore having a solid grasp of good principles of reasoning, as part of the general principles and etiquette of constructive communication and conflict resolution, should help us to sustain harmonious and successful relationships with others.
 
 Having a solid grasp of our values also helps us in our relationships with others. We can approach moral disagreements more effectively when we understand our own values; understand and respect that others hold different values; and have an interest in understanding the values of others as a basis for constructive discussion.
 
