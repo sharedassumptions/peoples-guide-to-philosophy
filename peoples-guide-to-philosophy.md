@@ -113,5 +113,5 @@ The reader may have noticed the Western bias of the preceding discussion. The au
 
 As such, our history of philosophy will be just a history of Western philosophy. The word "philosophy" is an English word derived from a Greek word. In that sense, philosophy is a Western concept. At the same time, entirely similar activities have been carried out around the world, for example in the Muslim world, and in India and China. The philosophical traditions of these non-Western cultures are the ones that will sadly be left out of our discussion, because of my lack of expertise to talk about them.
 
-## A brief history of philosophy
+## A brief history of Western philosophy
 
