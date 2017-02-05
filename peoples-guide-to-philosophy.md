@@ -92,7 +92,7 @@ XXX: history, values
 
 Before we go further, I want to provide some advice on reading philosophy, which applies to this text as well as other philosophical texts. If you're experienced at reading philosophy, you likely don't need this advice, but I hope that my audience includes people without much philosophy experience.
 
-Modern philosophy is usually difficult to absorb and retain. For me, reading a philosophy text once at a normal reading speed is usually not enough to understand it. What usually works best for me is to go slowly, taking frequent breaks to think, and to go back over passages until I understand them, both within one sitting and over multiple sittings. The principle of this advice is to be patient, to give oneself space to think, and not to rush one's reading comprehension.
+Philosophy is usually difficult to absorb and retain. For me, reading a philosophy text once at a normal reading speed is usually not enough to understand it. What usually works best for me is to go slowly, taking frequent breaks to think, and to go back over passages until I understand them, both within one sitting and over multiple sittings. The principle of this advice is to be patient, to give oneself space to think, and not to rush one's reading comprehension.
 
 ## Language and Reasoning
 
