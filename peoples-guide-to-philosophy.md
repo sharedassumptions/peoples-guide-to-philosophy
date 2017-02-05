@@ -73,12 +73,12 @@ In refining our answer further, we could attempt to develop a theory of what phi
 
 We won't go in this direction. We're not going to undertake the project of understanding what philosophy is in general. Instead we will undertake the much leaner, more practical project of assembling a usable philosophy which contains the ideas that the author finds most practically and universally helpful in the wide variety of situations where philosophy is applicable. The ambition is to deliver the benefits of sound philosophy in a way whose applicability is as universal as possible.
 
-As such, our focus largely is not on specific philosophical issues, but on philosophical foundations. Specifically, we will organize our inquiry into four main areas: **language**, **reasoning**, **history**, and **values**.
+As such, our focus largely is not on domain-specific philosophical issues, but on philosophical foundations. Specifically, we will organize our inquiry into four main areas: **language**, **reasoning**, **history**, and **values**.
 
 Language is a major topic of study in modern philosophy. Language is at the center of many human activities, and most activities peculiar to the modern world. Think about the proportion of your day you spend processing language, including listening to words, reading, speaking, writing, and thinking using words. In my case, the answer is that I'm processing language almost all the time I'm awake, and that this is the locus of the vast majority of my activities.
 
 Because of language's ubiquity, principles underlying the operation of language have very broad applicability. Language is the point of leverage in many productive philosophical techniques. Linguistic analysis is a crowbar that can pry open many philosophical insights. The principles of such linguistic philosophical analysis are one of the things we will pursue.
 
-The next area is reasoning. This is an important area to discuss because principles of sound reasoning, applied to decision making, help us to excel in most areas of life.
+The next area is reasoning. This is an important area to discuss because principles of sound reasoning, applied to decision making, help us to excel in most areas of life. The philosophy of reasoning, in essence, is mainly concerned with answering the question: what conclusions do a given set of premises or pieces of evidence support, and what kinds and degrees of uncertainty are present in the inferences that can be made?
 
 Reasoning is so thoroughly related to language that it's impossible for us to discuss reasoning without dicussing language. The study of reasoning provides an unusally clear context in which to discuss language, so that I have found it most useful to carry out the discussion of reasoning and language in parallel, as one topic: **language and reasoning**.
