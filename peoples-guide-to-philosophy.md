@@ -1,6 +1,6 @@
 # A People's Guide to Philosophy
 
-What is philosophy? As a first stab, we can say that philosophy is an area of study concerned with principles that apply across all domains of life.
+What is philosophy? As a first stab, we can say that philosophy is an area of study concerned with principles that apply across many different domains of life, or to deep and fundamental questions about life.
 
 Modern life is built on increasingly complex systems of technology and social organization. The construction and maintenance of these systems depends on human thought and decision making.
 
@@ -67,7 +67,7 @@ Let's use the term ``non-professional philosophy'' to refer to all philosophy do
 
 To be sure, professional philosophers are usually better at philosophy than non-professional philosophers. Professional philosophers often cringe and sneer, for good reasons and bad reasons, at philosophical statements made by people who aren't professional philosophers. I see the idea that good philosophy only comes out of academic institutions as obviously silly. I also see the position that the academic institutions are mostly devoid of valuable philosophical thinking as obviously silly. My position is that philosophers should listen to anybody who seems to have good ideas about philosophy, and in discussions we should focus on what's being said rather than who's saying it.
 
-The question remains, what is it that we call philosophy, that is practiced by both non-professional  and professional philosophers? To recall, our first stab at answering was to say that philosophy is an area of study concerned with principles that apply across all domains of life.
+The question remains, what is it that we call philosophy, that is practiced by both non-professional  and professional philosophers? To recall, our first stab at answering was to say that many different domains of life, or to deep and fundamental questions about life.
 
 In refining our answer further, we could attempt to develop a theory of what philosophy is by gathering many examples of philosophy and looking to see what family resemblances they bear to each other. In doing this, we would run into instances where it wasn't clear whether something was or was not philosophy. To advance our project, we would need to adjudicate such questions. Eventually we might arrive at a good theory of what philosophy is, but inevitably (given my observation of how philosophical debates go) there would be objections to any theory put forth to answer this question.
 
