@@ -111,5 +111,7 @@ The main of this text will be devoted to the subjects we have outlined: language
 
 The reader may have noticed the Western bias of the preceding discussion. The author is an American who lives in a Western society and has been educated in Western philosophy. I believe that Western philosophy should seek to learn lessons from the philosophies of the world. I have studied the philosophies of the world to some extent, but Western philosophy is what I know best. At this time I have not done the work necessary to integrate the best lessons of the philosophies of the world into my own philosophy. For this reason, this book has an unapologetically Western bias. Western philosophy is the subject, tradition, and paradigm of this book.
 
+As such, our history of philosophy will be just a history of Western philosophy. The word "philosophy" is an English word derived from a Greek word. In that sense, philosophy is a Western concept. At the same time, entirely similar activities have been carried out around the world, for example in the Muslim world, and in India and Asia. The philosophical traditions of these non-Western cultures are the ones that will sadly be left out of our discussion.
+
 ## Language and Reasoning
 
