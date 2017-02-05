@@ -1,6 +1,6 @@
 # A People's Guide to Philosophy
 
-What is philosophy? As a first stab, we can say that philosophy is an area of study concerned with principles that apply across many different domains of life, with fundamental and general questions about life, and with questions that can't be answered by any established methodology.
+What is philosophy? As a first stab, we can say that philosophy is the area of study concerned with principles that apply across many different domains of life, with fundamental and general questions about life, and with questions that can't be answered by any established methodology.
 
 Modern life is built on increasingly complex systems of thought, technology, culture, and social organization. The construction and maintenance of these systems depends on human thought and decision making.
 
