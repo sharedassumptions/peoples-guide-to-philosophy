@@ -82,3 +82,15 @@ Because of language's ubiquity, principles underlying the operation of language 
 The next area is reasoning. This is an important area to discuss because principles of sound reasoning, applied to decision making, help us to excel in most areas of life. The study of reasoning, in essence, is mainly concerned with answering the question: what conclusions do a given set of premises or pieces of evidence support, and what kinds and degrees of uncertainty are present in the inferences that can be made?
 
 Reasoning is so thoroughly related to language that it's impossible for us to discuss reasoning without discussing language. The study of reasoning provides an unusally clear context in which to discuss language, so that I have found it most useful to carry out the discussion of reasoning and language in parallel, as one topic: **language and reasoning**.
+
+
+
+
+
+
+Before we go further, I want to provide some advice on reading philosophy, which applies to this text as well as other philosophical texts. If you're experienced at reading philosophy, you likely don't need this advice, but I hope that my audience includes people without much philosophy experience.
+
+Modern philosophy is usually difficult to absorb and retain. For me, reading a philosophy text once at a normal reading speed is usually not enough to understand it. What usually works best for me is to go slowly, taking frequent breaks to think, and to go back over passages until I understand them, both within one sitting and over multiple sittings. The principle of this advice is to be patient, to give oneself space to think, and not to rush one's reading comprehension.
+
+## Language and Reasoning
+
