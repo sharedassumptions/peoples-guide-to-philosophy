@@ -1,6 +1,6 @@
 # A People's Guide to Philosophy
 
-What is philosophy? As a first stab, we can say that philosophy is an area of study concerned with principles that apply across many different domains of life, or to deep and fundamental questions about life.
+What is philosophy? As a first stab, we can say that philosophy is an area of study concerned with principles that apply across many different domains of life, with fundamental and general questions about life, and with questions that can't be answered by any established methodology.
 
 Modern life is built on increasingly complex systems of technology and social organization. The construction and maintenance of these systems depends on human thought and decision making.
 
@@ -59,7 +59,7 @@ The debate about whether a hot dog is a sandwich is a game of entertainment whos
 
 Most everybody has probably found themselves in this kind of debate over terms at some point in their life. This is an example of a kind of philosophical debate that people commonly have, in the modern world outside of academic institutions.
 
-Philosophy has a broader and deeper place in most of our lives. Most people probably have some philosophical stances on political issues, on moral issues concerning how people should behave, on religious issues, and so forth.
+Philosophy also has a broader and deeper place in most of our lives. Most people probably have some philosophical stances on political issues, on moral issues concerning how people should behave, on religious issues, and so forth.
 
 It's not obvious how to describe the underlying principle (if there is one) behind our application of the adjective ``philosophical'' to the wide (but far from all-inclusive) variety of issues, ideas, questions, etc., that we do apply it to. In most cases, probably, the discussions we call philosophical are similar in subject matter or methodology to the discussions had in academic philosophy. However, it's not obvious this is true in all cases. Even in the cases where it's true, it does not imply that the cultural DNA producing these discussions comes from academic philosophy. Moreover, it's not obvious how to describe the underlying principle (if there is one) of what questions are in the scope of what academic philosophy studies.
 
@@ -67,7 +67,7 @@ Let's use the term ``non-professional philosophy'' to refer to all philosophy do
 
 To be sure, professional philosophers are usually better at philosophy than non-professional philosophers. Professional philosophers often cringe and sneer, for good reasons and bad reasons, at philosophical statements made by people who aren't professional philosophers. I see the idea that good philosophy only comes out of academic institutions as obviously silly. I also see the position that the academic institutions are mostly devoid of valuable philosophical thinking as obviously silly. My position is that philosophers should listen to anybody who seems to have good ideas about philosophy, and in discussions we should focus on what's being said rather than who's saying it.
 
-The question remains, what is it that we call philosophy, that is practiced by both non-professional  and professional philosophers? To recall, our first stab at answering was to say that many different domains of life, or to deep and fundamental questions about life.
+The question remains, what is it that we call philosophy, that is practiced by both non-professional  and professional philosophers? To recall, our first stab at answering was to say that philosophy is an area of study concerned with principles that apply across many different domains of life, with fundamental and general questions about life, and with questions that can't be answered by any established methodology.
 
 In refining our answer further, we could attempt to develop a theory of what philosophy is by gathering many examples of philosophy and looking to see what family resemblances they bear to each other. In doing this, we would run into instances where it wasn't clear whether something was or was not philosophy. To advance our project, we would need to adjudicate such questions. Eventually we might arrive at a good theory of what philosophy is, but inevitably (given my observation of how philosophical debates go) there would be objections to any theory put forth to answer this question.
 
@@ -79,9 +79,21 @@ Language is a major topic of study in modern philosophy. Language is at the cent
 
 Because of language's ubiquity, principles underlying the operation of language have very broad applicability. Language is the point of leverage in many productive philosophical techniques. Linguistic analysis is a crowbar that can pry open many philosophical insights. The principles of such linguistic philosophical analysis are one of the things we will pursue.
 
-The next area is reasoning. This is an important area to discuss because principles of sound reasoning, applied to decision making, help us to excel in most areas of life. The study of reasoning, in essence, is mainly concerned with answering the question: what conclusions do a given set of premises or pieces of evidence support, and what kinds and degrees of uncertainty are present in the inferences that can be made?
+The second area is reasoning. This is an important area to discuss because principles of sound reasoning, applied to decision making, help us to excel in most areas of life. The study of reasoning, in essence, is mainly concerned with answering the question: what conclusions do a given set of premises or pieces of evidence support, and what kinds and degrees of uncertainty are present in the inferences that can be made?
 
 Reasoning is so thoroughly related to language that it's impossible for us to discuss reasoning without discussing language. The study of reasoning provides an unusally clear context in which to discuss language, so that I have found it most useful to carry out the discussion of reasoning and language in parallel, as one topic: **language and reasoning**.
+
+The third area is history. It is said that those who don't know history are doomed to repeat it. It is incumbent upon philosophical people to be the moral and historical conscience of society. This entails learning history, and applying appropriate methodologies to interpret it in ways that reveal the lessons that need to be learned from it.
+
+Each of us lives in a small slice of time and space. If we're just concerned with the immediate problems facing us as individuals, then we don't need to know history. If we're concerned with understanding the world in general, then we need to know history. If we're concerned with understanding the present in general, then we need to know history. If we're concerned with being a voice in the guidance of our democratic process, then we need to know history so that we can understand the potential implications of policy proposals. Finally, and probably most importantly, history can play an important role in informing our values and our understanding of ourselves by giving us a sense of our context in the larger human journey and the journey of the Earth as a whole.
+
+History, as I'm using the term, is the study of the past. This is different from how the term is used in academia. The academic field of history is the study of the past as revealed through written records. Many other academic fields also study the past. In my usage, "history" is the study of the past through all means available to us.
+
+All information that we have comes from the past. When I look at my desk in front of me, I am looking at a model of the scene constructed by my brain (through a series of processing steps taking non-zero time) based on light that traveled (in non-zero time) from the desk to my eyes. I am looking at a picture of the past.
+
+Similarly, the daily news is always about the past (but usually the recent past). Reading the news is an everyday way of studying history. This illustrates how close to home history often is.
+
+In trying to study history, we're confronted with a pool of evidence consisting of nothing less than all information ever recorded. These are the clues left by the past. Interpreting them and constructing an understanding of what happened (or may have happened) is the work of history. 
 
 XXX: history, values
 
