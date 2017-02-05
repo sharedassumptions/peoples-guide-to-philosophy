@@ -93,9 +93,15 @@ All information that we have comes from the past. When I look at my desk in fron
 
 Similarly, the daily news is always about the past (but usually the recent past). Reading the news is an everyday way of studying history. This illustrates how close to home history often is.
 
-In trying to study history, we're confronted with a pool of evidence consisting of nothing less than all information ever recorded. These are the clues left by the past. Interpreting them and constructing an understanding of what happened (or may have happened) is the work of history. 
+In trying to study history, we're confronted with a pool of evidence consisting of nothing less than all information ever recorded. These are the clues left by the past. Interpreting them and constructing an understanding of what happened (or may have happened) is the work of history.
 
-XXX: history, values
+In this book, we will limit ourselves to the study of the methodology of history, and to the study of world history and selected narrower histories.
+
+The main thing philosophy needs to provide for the study of history is a methodology for the study of history which leads us to the lessons of history in the most efficient and accurate way possible. This is of course not a new project; the methodology of history is a whole field of study. As always our aim is to synthesize past understanding on this topic, and to do it from a practical perspective, in this case with a view to revealing the lessons of history efficiently and accurately.
+
+Of course, developing a methodology of history without showing how to apply it would be an absurd approach. This is why in addition to studying the methodology of history, we will do some history.
+
+XXX: values
 
 
 
