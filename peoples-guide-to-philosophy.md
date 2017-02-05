@@ -14,7 +14,7 @@ Philosophy is also important for improving and sustaining our relationships with
 
 Having a solid grasp of our values also helps us in our relationships with others. We can approach moral disagreements more effectively when we understand our own values; understand and respect that others hold different values; and have an interest in understanding the values of others as a basis for constructive discussion.
 
-One specific area where philosophy can help us is in understanding the *sources* of disagreements we have with others.
+A simple example of how we can apply philosophy is in understanding the *sources* of disagreements we have with others.
 
 1. Many disagreements turn out to be illusory disagreements caused by the participants in a discussion differently understanding the meaning of language being used, so that some party thinks another party is saying something they're not trying to say. These so-called disagreements are often called [``verbal disputes.''](http://philosophy.hku.hk/think/meaning/verbal.php) Of course there may be no real disagreement present in these cases; often there's only an appearance of disagreement created by miscommunication.
 2. Other disagreements are caused by the participants possessing different information.
