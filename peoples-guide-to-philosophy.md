@@ -2,7 +2,7 @@
 
 What is philosophy? As a first stab, we can say that philosophy is an area of study concerned with principles that apply across many different domains of life, with fundamental and general questions about life, and with questions that can't be answered by any established methodology.
 
-Modern life is built on increasingly complex systems of technology and social organization. The construction and maintenance of these systems depends on human thought and decision making.
+Modern life is built on increasingly complex systems of thought, technology, culture, and social organization. The construction and maintenance of these systems depends on human thought and decision making.
 
 Human thought and decision making is almost invariably based on principles of reasoning, and also on values. Principles of reasoning help us determine what is and what might be. Given knowledge of what is and what might be, values tell us what we should strive to make so.
 
@@ -110,7 +110,7 @@ XXX: values
 
 Before we go further, I want to provide some advice on reading philosophy, which applies to this text as well as other philosophical texts. If you're experienced at reading philosophy, you likely don't need this advice, but I hope that my audience includes people without much philosophy experience.
 
-Philosophy is usually difficult to absorb and retain. For me, reading a philosophy text once at a normal reading speed is usually not enough to understand it. What usually works best for me is to go slowly, taking frequent breaks to think, and to go back over passages until I understand them, both within one sitting and over multiple sittings. The principle of this advice is to be patient, to give oneself space to think, and not to rush one's reading comprehension.
+Philosophy is usually difficult to absorb and retain. For me, reading a philosophy text once at a normal reading speed is usually not enough to understand it. What usually works best for me is to go slowly, taking frequent breaks to think, and to go back over passages until I understand them, both within one sitting and over multiple sittings. The principle of this advice is to be patient, to give oneself space to think, and not to rush one's reading comprehension. 
 
 ## Language and Reasoning
 
