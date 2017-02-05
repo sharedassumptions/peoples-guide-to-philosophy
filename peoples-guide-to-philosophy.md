@@ -1,4 +1,4 @@
-# A Human's Guide to Philosophy
+# A People's Guide to Philosophy
 
 What is philosophy? As a first stab, we can say that philosophy is an area of study concerned with principles that apply across all domains of life.
 
