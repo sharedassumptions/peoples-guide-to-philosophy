@@ -4,7 +4,7 @@ What is philosophy? As a first stab, we can say that philosophy is an area of st
 
 Modern life is built on increasingly complex systems of thought, technology, culture, and social organization. The construction and maintenance of these systems depends on human thought and decision making.
 
-Human thought and decision making is almost invariably based on principles of reasoning, and also on values. Principles of reasoning help us determine what is and what might be. Given knowledge of what is and what might be, values tell us what we should strive to make so.
+Human thought and decision making is almost invariably based on principles of reasoning, and also on values. Principles of reasoning help us determine what is and what might be. Given knowledge of what is and what might be, values guide us in deciding what we should strive to make so.
 
 Philosophy is concerned with the principles of reasoning that apply in all areas of life. It's also concerned with the process of formulating and refining the values which we apply in making decisions in all areas of life.
 
