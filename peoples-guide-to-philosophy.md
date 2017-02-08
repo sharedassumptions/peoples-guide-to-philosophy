@@ -103,7 +103,7 @@ All information that we have comes from the past. When I look at my desk in fron
 
 Similarly, the daily news is always about the past (but usually the recent past). Reading the news is an everyday way of studying history. This illustrates how close to home history often is.
 
-In trying to study history, we're confronted with a pool of evidence consisting of nothing less than all evidence in existence. These are the clues left by the past. Interpreting them and constructing an understanding of what happened (or may have happened) is the work of history.
+In trying to study history, we're confronted with a pool of evidence consisting of nothing less than all evidence in existence, including, in particular, all existing information. These are the clues left by the past. Interpreting them and constructing an understanding of what happened (or may have happened) is the work of history.
 
 In this book, we will limit ourselves to the study of the methodology of history, and to the study of world history and selected narrower histories.
 
