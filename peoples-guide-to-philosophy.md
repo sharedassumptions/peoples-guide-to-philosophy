@@ -24,7 +24,7 @@ There are many forms of reason-skepticism, and we can't hope to address them all
 
 The part of this that is most significant and hardest to substantiate, in my opinion, is that the study of principles of reasoning has value for solving soft problems. In politics, for example, there are some who think that rational debate can't solve political issues and isn't the way we should solve political issues. One of the moral stances I aim to substantiate is that rational debate based on philosophically sound reasoning is, always has been, and always must be, central to healthy, functional democratic politics.
 
-The value of philosophy isn't something I necessarily expect to convince you of in the introduction to this book (if you don't believe in it already). The way you can prove to yourself that philosophy is valuable is by applying the principles of philosophy to problems in your life and seeing what happens. We'll also talk now in generalities about ways in which philosophy is applicable to common situations in life.
+The value of philosophy isn't something I necessarily expect to convince you of in the introduction to this book (if you don't believe in it already). The way you can prove to yourself that philosophy is valuable is by applying the principles of philosophy to problems in your life and seeing what happens. We'll also talk now in generalities about ways in which philosophy is applicable to common aspects of life.
 
 Philosophy is valuable for our self-improvement and the pursuit of our objectives for ourselves. We can best succeed in life by having a clear conception of what we value, and by formulating rational plans to pursue what we value. We can best succeed in life by analyzing ourselves and the consequences of our actions in order to arrive at actionable conclusions about how we can best pursue self-improvement and how we can act more effectively in the world. Philosophy gives us tools which help us to do all these things.
 
@@ -43,11 +43,7 @@ Each of these types of disagreement requires a different approach. A good genera
 
 Obviously no linear, formulaic process is going to be an ideal approach to discussion. Discussion is a highly non-linear and creative process. So these suggestions should be taken in a non-definitive and flexible way.
 
-Let us now move past the personal and interpersonal areas of life to consider philosophy's applicability to almost everything else.
-
-
-
-So far we've discussed in some depth what philosophy can be used for, and why you should care to finish this book. Let's now return to our original question: what is philosophy?
+So far we've discussed in some depth what philosophy is good for, and why you should care to finish this book. Let's now return to our original question: what is philosophy?
 
 "Philosophy" is a term whose origins go back to Ancient Greece, where Socrates and his followers were the first to my knowledge to call themselves philosophers. "Philosophy" comes from the Greek *philosophia*, often translated as "love of wisdom." In subsequent times, "philosophy" came to refer to all areas of knowledge, from mathematics to occult magic. 
 
