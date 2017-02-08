@@ -8,6 +8,12 @@ Human thought and decision making is almost invariably based on principles of re
 
 Philosophy is concerned with the principles of reasoning that apply in all areas of life. It's also concerned with the process of formulating and refining the values which we apply in making decisions in all areas of life.
 
+People's economic and social existences depend on knowledge, and they always have. Hunter-gatherers employ knowledge as part of various practices to secure food, solve basic problems of living, organize themselves, and experience meaning in life, among other things. In industrial and post-industrial life, we use knowledge to solve the same problems (and many other problems) in more complex ways. Individuals, businesses, governments, and organizations employ increasingly complex knowledge to perform their increasingly complex work.
+
+Philosophy lies at the root of human knowledge. Systematically successful development of knowledge depends on adherence to principles which result in systematic (if imperfect) correspondence of beliefs with the truth. The principles which produce this outcome are one of the primary things we will pursue in this book.
+
+The principles I articulate in this book mostly aren't original to me. Most of them are widely agreed upon and uncontroversial. However, writing a book like this does require a lot of synthesis. All blame for error in this book goes to me. All credit goes by default to those I've learned from, but it's possible that some of what I say is original.
+
 It can be debated whether there are really principles of reasoning that apply in all areas of life, which are objectively correct, which lead us to the truth, and so forth. There are many complex discussions to be had in this area, and we will have many of them. For now, we'll point out that human achievements provide proof of our ability to reason successfully, and they illustrate how we are able to do so.
 
 Our ability to construct complex, delicate systems which function correctly, such as computer systems, space vehicles, etc., illustrates our ability to reason successfully. Anyone who has programmed computers knows that a tiny error in a computer program often causes it to fail dramatically. Humans write computer programs containing millions of lines of code, in a medium where each small error is likely to cause dramatic failure, and many of these programs have few enough errors that they work very reliably. Such results aren't achieved by trial and error; they're achieved by humans using successful, reliable, repeatable reasoning techniques to construct programs which they can reasonably believe will run successfully based on their understanding of what they've done. In every field of engineering, people achieve success working under the same kinds of error-prone conditions, using the same principles of reasoning. Explaining and documenting the techniques that produce such success is one of the jobs of philosophy.
@@ -18,7 +24,7 @@ There are many forms of reason-skepticism, and we can't hope to address them all
 
 The part of this that is most significant and hardest to substantiate, in my opinion, is that the study of principles of reasoning has value for solving soft problems. In politics, for example, there are some who think that rational debate can't solve political issues and isn't the way we should solve political issues. One of the moral stances I aim to substantiate is that rational debate based on philosophically sound reasoning is, always has been, and always must be, central to healthy, functional democratic politics.
 
-The value of philosophy isn't something I necessarily expect to convince you of in the introduction to this book (if you don't believe in it already). The way you can prove to yourself that philosophy is valuable is by applying the principles of philosophy to problems in your life and seeing what happens. We'll also talk now in generalities about the ways in which philosophy is applicable to life.
+The value of philosophy isn't something I necessarily expect to convince you of in the introduction to this book (if you don't believe in it already). The way you can prove to yourself that philosophy is valuable is by applying the principles of philosophy to problems in your life and seeing what happens. We'll also talk now in generalities about ways in which philosophy is applicable to common situations in life.
 
 Philosophy is valuable for our self-improvement and the pursuit of our objectives for ourselves. We can best succeed in life by having a clear conception of what we value, and by formulating rational plans to pursue what we value. We can best succeed in life by analyzing ourselves and the consequences of our actions in order to arrive at actionable conclusions about how we can best pursue self-improvement and how we can act more effectively in the world. Philosophy gives us tools which help us to do all these things.
 
@@ -39,11 +45,7 @@ Obviously no linear, formulaic process is going to be an ideal approach to discu
 
 Let us now move past the personal and interpersonal areas of life to consider philosophy's applicability to almost everything else.
 
-People's economic and social existences depend on knowledge, and they always have. Hunter-gatherers employ knowledge as part of various practices to secure food, solve basic problems of living, organize themselves, and experience meaning in life, among other things. In industrial and post-industrial life, we use knowledge to solve the same problems (and many other problems) in more complex ways. Individuals, businesses, governments, and organizations employ increasingly complex knowledge to perform their increasingly complex work.
 
-Philosophy lies at the root of human knowledge. Systematically successful development of knowledge depends on adherence to principles which result in systematic (if imperfect) correspondence of beliefs with the truth. The principles which produce this outcome are one of the primary things we will pursue in this book.
-
-The principles I articulate in this book mostly aren't original to me. Most of them are widely agreed upon and uncontroversial. However, writing a book like this does require a lot of synthesis. All blame for error in this book goes to me. All credit goes by default to those I've learned from, but it's possible that some of what I say is original.
 
 So far we've discussed in some depth what philosophy can be used for, and why you should care to finish this book. Let's now return to our original question: what is philosophy?
 
