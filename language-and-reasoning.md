@@ -19,3 +19,14 @@ Our understanding of language and reasoning provide the foundation for our under
 These three areas, language, reasoning, and history, cumulatively provide the foundation for our analysis of value (which is inclusive of morals and ethics). A thesis of this book is that our understanding of value and related concepts is best founded on generalization from numerous historical and stereotypical case studies. The theory says that it's often easy to see in retrospect what things were good and bad, and that history shows us the consequences of various ways of thinking about various concerns related to value. We will get into all of this more later of course.
 
 In short, the understanding of language is the first layer in a tower of foundations we're going to build. To put it simply, explaining language helps us explain reasoning (and also vice versa); explaining language and reasoning helps us explain history; and explaining language, reasoning, and history helps us explain value.
+
+There are many theoretical perspectives we can take on language. We will provide a history of the study of language which will introduce many of these perspectives. I will provide right now a theoretical perspective on language that I find particularly fruitful. This is to think of language as a form of technology.
+
+What is technology? The simplest form of technology is a tool. A simple example of a tool is a stick that a primate uses to capture ants to eat. This simple example illustrates that a thing produced by nature, a stick, becomes a tool when it's used by an animal to accomplish a purpose. More sophisticated tools are also all made by animals from things found in nature. In the modern industrial world, tools are generally manufactured from natural resources with the help of a dizzying array of existing tools and other forms of technology.
+
+There are many forms of technology that we wouldn't usually call tools, including books, satellites, medicines, etc. All of these things could plausibly be called tools. One loose way of using the word "tool" would be as a synonym for technology.
+
+We can begin to see the plausibility of thinking of language as a kind of technology by reflecting on simple cases such as a hypothetical language given by Wittgenstein in the *Philosophical Investigations* (part I, remark 2), which we are here divorcing from its significance in the original context:
+
+> The language is meant to serve for communication between a builder A and an assistant B. A is building with buildingstones: there are blocks, pillars, slabs and beams. B has to pass the stones, and that in the order in which A needs them. For this purpose they use a language consisting of the words "block", "pillar", "slab", "beam". A calls them out;—B brings the stone which he has learnt to bring at such-and-such a call.——Conceive this as a complete primitive language.
+
