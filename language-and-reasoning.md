@@ -4,7 +4,7 @@ What is language? The term "language" encompasses written language and spoken la
 
 Are non-pronounceable symbols, such as the internationally recognized [hazard symbols](https://en.wikipedia.org/wiki/Hazard_symbol), a form of language? What about smoke signals? Computer code? Morse code? Is any digitally recorded information a form of language? What about random bits recorded on a hard drive?
 
-I find it likely the reader will agree that of the things mentioned in the previous paragraph, some are language and some aren't. I will leave the reader to consider these questions (and the [Sorites paradox](https://en.wikipedia.org/wiki/Sorites_paradox) they form) in more depth if they wish.
+I find it likely the reader will agree that of the things mentioned in the previous paragraph, some are language and some aren't. I will leave the reader to consider these questions (and the [Sorites paradox](https://en.wikipedia.org/wiki/Sorites_paradox) they may or may not form) in more depth if they wish.
 
 Getting deeper insight into what language is requires determining general principles and laws concerning language. There is so much language in the world that understanding language by exhaustive analysis of all existing language is blatantly impossible. Moreover, each of us has an enormous store of personal experience with language. Therefore, to discover general principles and laws concerning language, primarily we need to reflect on our own experiences and experiment with different generalizations, methods, and theoretical perspectives to find productive avenues to taming the great complexities of language.
 
