@@ -4,9 +4,9 @@ What is philosophy? As a first stab, we can say that philosophy is the area of s
 
 Modern life is built on increasingly complex systems of thought, technology, culture, and social organization. The construction and maintenance of these systems depends on human thought and decision making.
 
-Human thought and decision making is almost invariably based on principles of reasoning, and also on values. Principles of reasoning help us determine what is and what might be. Given knowledge of what is and what might be, values guide us in deciding what we should strive to make so.
+Human thought and decision making is almost invariably based on principles of reasoning, and also on principles of decision making. Principles of reasoning help us determine what is and what might be. Given knowledge of what is and what might be, principles of decision making guide us in deciding what we should strive to make so, and determining what actions are most likely to bring about desired outcomes.
 
-Philosophy is concerned with the principles of reasoning that apply in all areas of life. It's also concerned with the process of formulating and refining the values which we apply in making decisions in all areas of life.
+Philosophy is concerned with the principles of reasoning that apply in all areas of life. It's also concerned with the process of formulating and refining the principles which we apply in making decisions in all areas of life.
 
 People's economic and social existences depend on knowledge, and they always have. Hunter-gatherers employ knowledge as part of various practices to secure food, solve basic problems of living, organize themselves, and experience meaning in life, among other things. In industrial and post-industrial life, we use knowledge to solve the same problems (and many other problems) in more complex ways. Individuals, businesses, governments, and organizations employ increasingly complex knowledge to perform their increasingly complex work.
 
@@ -30,7 +30,7 @@ Philosophy is valuable for our self-improvement and the pursuit of our objective
 
 Philosophy is also valuable for improving and sustaining our relationships with others. In human relationships there are usually disagreements, and these are most likely to reach a peaceful, productive solution when addressed through reasonable discussion. Therefore having a solid grasp of good principles of reasoning, as part of the general principles and etiquette of constructive communication and conflict resolution, should help us to sustain harmonious and successful relationships with others.
 
-Having a solid grasp of our values also helps us in our relationships with others. We can approach moral disagreements more effectively when we understand our own values; understand and respect that others hold different values; and have an interest in understanding the values of others as a basis for constructive discussion.
+Having a solid grasp of our values, and of value-making principles, also helps us in our relationships with others. We can approach moral disagreements more effectively when we understand our own values; understand and respect that others hold different values; and have an interest in understanding the values of others as a basis for constructive discussion.
 
 A simple example of how we can apply philosophy is in understanding the *sources* of disagreements we have with others.
 
@@ -83,7 +83,7 @@ In refining our answer further, we could attempt to develop a theory of what phi
 
 We won't go in this direction. We're not going to undertake the project of developing a detailed theory of what philosophy is in general. Instead we will undertake the much leaner, more practical project of assembling a usable philosophy (a set of mutually coherent philosophical ideas) which contains (along with a lot of synthesis) the ideas from philosophical tradition that the author finds most practically and universally helpful in the wide variety of situations where philosophy is applicable. The ambition is to deliver the benefits of sound philosophy in a way whose applicability is as universal as possible.
 
-As such, our focus largely is not on domain-specific philosophical issues, but on philosophical foundations. Specifically, we will organize our inquiry into four main areas: **language**, **reasoning**, **history**, and **values**.
+As such, our focus largely is not on domain-specific philosophical issues, but on philosophical foundations. Specifically, we will organize our inquiry into four main areas: **language**, **reasoning**, **history**, and **decision making**. Decision making is inclusive of subareas such as values and ethics, which are specific philosophical factors that weigh into decision making.
 
 Language is a major topic of study in modern philosophy. Language is at the center of many human activities, and most activities peculiar to the modern world. Think about the proportion of your day you spend processing language, including listening to words, reading, speaking, writing, and thinking using words. In my case, the answer is that I'm processing language almost all the time I'm awake, and that this is the locus of the vast majority of my activities.
 
@@ -111,13 +111,13 @@ The main thing philosophy needs to provide for the study of history is a methodo
 
 Of course, developing a methodology of history without showing how to apply it would be an absurd approach. This is why in addition to studying the methodology of history, we will do some history.
 
-XXX: values
+XXX: decision making
 
 Before we go further, I want to provide some advice on reading philosophy, which applies to this text as well as other philosophical texts. If you're experienced at reading philosophy, you likely don't need this advice, but I hope that my audience includes people without much philosophy experience.
 
 Philosophy is usually difficult to absorb and retain. For me, reading a philosophy text once at a normal reading speed is usually not enough to understand it. What usually works best for me is to go slowly, taking frequent breaks to think, and to go back over passages until I understand them, both within one sitting and over multiple sittings. The principle of this advice is to be patient, to give oneself space to think, and not to rush one's reading comprehension.
 
-The main of this text will be devoted to the subjects we have outlined: language, reasoning, history, and value. However, I would be remiss to start a lesson on philosophy aimed at non-philosophers without placing it within the context of the broader philosophical conversation that has been happening for thousands of years. I would also betray my historical principles if I did not place our discussion in the context of the history of philosophy. Therefore, I will preface the main of the lesson with a brief history of philosophy.
+The main of this text will be devoted to the subjects we have outlined: language, reasoning, history, and decision making. However, I would be remiss to start a lesson on philosophy aimed at non-philosophers without placing it within the context of the broader philosophical conversation that has been happening for thousands of years. I would also betray my historical principles if I did not place our discussion in the context of the history of philosophy. Therefore, I will preface the main of the lesson with a brief history of philosophy.
 
 The reader may have noticed the Western bias of the preceding discussion. The author is an American who lives in a Western society and has been trained in Western philosophy. I believe that Western philosophy should seek to learn lessons from and assimilate the best parts of the philosophies of the world. I have studied the philosophies of the world to some extent, but Western philosophy is what I know best. At this time I have not done the work necessary to integrate the best lessons of the philosophies of the world into my own philosophy. For this reason, this book has an unapologetically Western bias. Western philosophy is the subject, tradition, and paradigm of this book.
 
