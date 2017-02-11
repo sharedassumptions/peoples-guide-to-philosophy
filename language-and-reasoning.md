@@ -10,7 +10,7 @@ Getting deeper insight into what language is requires determining general princi
 
 Why understand language? If knowledge is power, then knowledge of language promises to be an extraordinarily useful form of power. Language dominates numerous aspects of life and it is the most common mechanism by which powerful people acquire and exercise their power.
 
-Mathematics is to a significant extent the theoretical key to understanding, and therefore controlling, the natural world. In contrast, theory that enables us to understand language offers us the promise of controlling linguistic reality, turning words to our advantage in any kind of situation. Such a power, obviously, can be used for good or evil, which is one reason that philosophical people have a responsibility to concern themselves with morals, as we will do later in this book.
+Mathematics is to a significant extent the theoretical key to understanding, and therefore controlling, the natural world. In contrast, theory that enables us to understand language offers us the promise of controlling linguistic reality, turning words to our advantage in any kind of situation. Such a power, obviously, can be used for good or evil, which is one reason that philosophical people have a responsibility to concern themselves with ethics, as we will do later in this book.
 
 In terms of the direction of this book, the reason for discussing language and discussing it first is that our understanding of language is the foundation for our understanding of reasoning, though we discuss them in an intertwined way for convenience.
 
