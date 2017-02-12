@@ -141,7 +141,7 @@ This idea takes a lot of the bite out of the accusation of bias against a source
 
 There is also the issue of sources' biases leading them to distort the truth with misleading interpretations of facts, or to get facts wrong intentionally or negligently. Sources of information which have integrity in their duty to their consumers, of course, should never do these things.
 
-However, that doesn't mean that sources of information need to pursue the harebrained agenda of being free of biases. Instead, our focus should be on having good biases and not having bad biases.
+However, that doesn't mean that sources of information need to pursue the harebrained agenda of attempting to be free of biases. Instead, our focus should be on having good biases and not having bad biases.
 
 ## A brief history of Western philosophy
 
