@@ -135,5 +135,7 @@ Suppose I have a favorite coffee shop. Could I say I have a bias towards going t
 
 I answer "yes" to all these questions. These examples illustrate that "bias" is a very broad category including many different properties a person could have, many of which seem not bad, but rather virtuous and beneficial. It's difficult for me to conceptualize how a person without any biases would behave, or what impetus they could have to publish anything. The only plausible example of an unbiased person which comes to mind for me, is a dead person.
 
+The conclusion of this reasoning seems to be that biases are not always bad. Some biases are bad, some are good, most probably have a whole mix of good and bad consequences, and some are neutral for most purposes. Naturally, people's biases will inform their judgments about which biases are good and which ones are bad.
+
 ## A brief history of Western philosophy
 
