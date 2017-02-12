@@ -62,11 +62,11 @@ Beyond its marrying of philosophy of language to practicality, the value of the 
 
 #### Linguistic normativity and linguistic descriptivism
 
-#### Conceptual analysis
-
 #### Spelling, pronunciation, and grammar
 
 #### Declarative sentences
+
+#### Meaning and conceptual analysis
 
 ### Introduction to Reasoning
 
