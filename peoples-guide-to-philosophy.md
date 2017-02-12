@@ -143,5 +143,7 @@ There is also the issue of sources' biases leading them to distort the truth wit
 
 However, that doesn't mean that sources of information need to pursue the harebrained agenda of attempting to be free of biases. Instead, our focus should be on having good biases and not having bad biases.
 
+In this book we cultivate a set of biases which the author considers to be productive and helpful in the pursuit of practical philosophy which pays dividends in the real world. We won't shrink from biased discussions of a topic, e.g. discussions that privilege one theoretical framing over others, because in recognition of the impossibility of being unbiased, the goal is instead to select biases which advance the objectives for the text.
+
 ## A brief history of Western philosophy
 
