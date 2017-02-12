@@ -62,11 +62,13 @@ Beyond its marrying of philosophy of language to practicality, the value of the 
 
 #### Linguistic normativity and linguistic descriptivism
 
-#### Spelling, pronunciation, and grammar
+#### Pronunciation, spelling, and grammar
 
 #### Declarative sentences
 
-#### Meaning and conceptual analysis
+#### Meanings of words
+
+#### Meanings of phrases and sentences
 
 ### Introduction to Reasoning
 
