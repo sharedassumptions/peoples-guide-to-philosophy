@@ -139,7 +139,9 @@ The conclusion of this reasoning seems to be that biases are not always bad. Som
 
 This idea takes a lot of the bite out of the accusation of bias against a source. Saying that a source is biased is a trivial statement that's always true. Of course, practically speaking, when somebody accuses a source of bias, they mean that the source has biases which they consider bad, and they may well have good reasons for considering those biases to be bad.
 
-There is also the issue of sources' biases leading them to distort the truth with misleading interpretations of facts, or to get facts wrong intentionally or negligently. Sources of information which have integrity in their duty to their consumers, of course, should never do these things. However, that doesn't mean that sources of information need to pursue the harebrained agenda of being free of biases. Instead, our focus should be on having good biases and not having bad biases.
+There is also the issue of sources' biases leading them to distort the truth with misleading interpretations of facts, or to get facts wrong intentionally or negligently. Sources of information which have integrity in their duty to their consumers, of course, should never do these things.
+
+However, that doesn't mean that sources of information need to pursue the harebrained agenda of being free of biases. Instead, our focus should be on having good biases and not having bad biases.
 
 ## A brief history of Western philosophy
 
