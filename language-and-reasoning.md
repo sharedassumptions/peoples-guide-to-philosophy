@@ -1,5 +1,9 @@
 # Language and Reasoning
 
+## Introduction
+
+### Introduction to Language
+
 What is language? The term "language" encompasses written language and spoken language, including recordings of spoken language, and language in the form of synthesized speech.
 
 Are non-pronounceable symbols, such as the internationally recognized [hazard symbols](https://en.wikipedia.org/wiki/Hazard_symbol), a form of language? What about smoke signals? Computer code? Morse code? Is any digitally recorded information a form of language? What about random bits recorded on a hard drive?
@@ -19,6 +23,8 @@ Our understanding of language and reasoning provide the foundation for our under
 These three areas, language, reasoning, and history, cumulatively provide the foundation for our analysis of decision making (which is inclusive of value and ethics). A thesis of this book is that our understanding of value, ethics, and other decision making factors is best founded on generalization from numerous historical and stereotypical case studies. The theory says that it's often easy to see in retrospect what things were good and bad, and that history shows us the consequences of various ways of thinking about decision making factors. We will get into all of this more later.
 
 In short, the understanding of language is the first layer in a tower of foundations we're going to build. To put it simply, explaining language helps us explain reasoning (and also vice versa); explaining language and reasoning helps us explain history; and explaining language, reasoning, and history helps us explain value.
+
+#### The technological perspective on language
 
 There are many theoretical perspectives we can take on language. We will provide a history of the study of language which will introduce many of these perspectives. I will provide right now a theoretical perspective on language that I find particularly fruitful. This is to think of language as a form of technology.
 
@@ -52,4 +58,12 @@ Philosophy of language questions with practical significance, on the other hand,
 
 This is not to say that philosophy of language questions that matter are always tractable, or that tractable philosophy of language questions always matter. It's just to say that philosophy of language questions that don't matter have a non-exceptionless tendency to be intractable, and philosophy of language questions that do matter have a non-exceptionless tendency to be tractable. We should focus on the questions that matter, and we should attack even the most intractable questions when they are important enough to warrant the effort.
 
-Beyond its marrying of philosophy of language to practicality, the value of the technological perspective of language is that it provides a metaphor which suggests that we apply concepts and intuitions that we apply to technology in general to the understanding of language. The reader can reflect on whether this provokes anything in them. We will unfold how this metaphor plays out in various theoretical contexts later on.
+Beyond its marrying of philosophy of language to practicality, the value of the technological perspective on language is that it provides a metaphor which suggests that we apply concepts and intuitions that we apply to technology in general to the understanding of language. The reader can reflect on whether this provokes anything in them. We will unfold how this metaphor plays out in various theoretical contexts later on.
+
+#### Conceptual Analysis
+
+## History of Language, Reasoning, and Their Study
+
+## Language and Reasoning in Theory
+
+## Language and Reasoning in Practice
