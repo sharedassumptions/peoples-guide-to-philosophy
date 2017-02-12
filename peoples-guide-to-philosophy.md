@@ -123,5 +123,17 @@ The reader may have noticed the Western bias of the preceding discussion. The au
 
 As such, our history of philosophy will be just a history of Western philosophy. The word "philosophy" is an English word derived from a Greek word. In that sense, philosophy is a Western concept. At the same time, entirely similar activities have been carried out around the world, for example in the Muslim world, and in India and China. The philosophical traditions of these non-Western cultures are the ones that will sadly be left out of our discussion, because of my lack of expertise to talk about them.
 
+In general, the author is not afraid to be biased, and opinions presented here are my own. One may ask why it is justified to be unafraid of being biased. The argument I see for being afraid of being biased is that unbiased sources serve the interests of consumers of information, whereas by being a biased producer of information, one serves one's own interests over the interests of one's consumers. Yet this line of thinking falls apart, in my opinion, when we look at it more closely.
+
+Is there such a thing as an unbiased source? To get insight into this, let's ask more generally, what does it mean for a source to be biased, and more generally still, what is bias?
+
+Let's start with the most general form of the question. What is bias, or what is a bias? A bias is a kind of property. A person is biased, or has a bias. A media outlet is biased, or has a bias. And so forth. A bias is a kind of property which can inhere in or be possessed by objects such as people, media outlets, texts, etc.
+
+We commonly discuss bias in the context of disputing the veracity of a source or its claims. These discussions might lead some to the impression that biases are a bad thing. However, this seems difficult to sustain when we examine the full range of reasonable uses of the word "bias."
+
+Suppose I have a favorite coffee shop. Could I say I have a bias towards going to that coffee shop? Suppose I refuse to have sex before marriage. Would you say I have a bias against having sex with people I'm not married to? Suppose I refuse to drink alcohol. Would you say I have a bias against drinking alcohol? Suppose I vehemently oppose suggestions of genocide against any group. Would you say I have a bias against genocide? Suppose I tend to evaluate information using logic. Would you say I have a bias towards logic? Suppose I try to find the truth about issues. Would you say I have a bias towards the truth?
+
+I answer "yes" to all these questions. These examples illustrate that "bias" is a very broad category including many different properties a person could have, many of which seem not bad, but rather virtuous and beneficial. It's difficult for me to conceptualize how a person without any biases would behave, or what impetus they could have to publish anything. The only plausible example of an unbiased person which comes to mind for me, is a dead person.
+
 ## A brief history of Western philosophy
 
