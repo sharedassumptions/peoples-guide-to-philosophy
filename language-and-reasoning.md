@@ -62,6 +62,8 @@ Beyond its marrying of philosophy of language to practicality, the value of the 
 
 #### Conceptual Analysis
 
+### Introduction to Reasoning
+
 ## History of Language, Reasoning, and Their Study
 
 ## Language and Reasoning in Theory
