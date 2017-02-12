@@ -60,7 +60,13 @@ This is not to say that philosophy of language questions that matter are always 
 
 Beyond its marrying of philosophy of language to practicality, the value of the technological perspective on language is that it provides a metaphor which suggests that we apply concepts and intuitions that we apply to technology in general to the understanding of language. The reader can reflect on whether this provokes anything in them. We will unfold how this metaphor plays out in various theoretical contexts later on.
 
-#### Conceptual Analysis
+#### Linguistic normativity and linguistic descriptivism
+
+#### Conceptual analysis
+
+#### Spelling, pronunciation, and grammar
+
+#### Declarative sentences
 
 ### Introduction to Reasoning
 
