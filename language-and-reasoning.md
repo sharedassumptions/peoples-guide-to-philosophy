@@ -60,7 +60,15 @@ This is not to say that philosophy of language questions that matter are always 
 
 Beyond its marrying of philosophy of language to practicality, the value of the technological perspective on language is that it provides a metaphor which suggests that we apply concepts and intuitions that we apply to technology in general to the understanding of language. The reader can reflect on whether this provokes anything in them. We will unfold how this metaphor plays out in various theoretical contexts later on.
 
-#### Linguistic normativity and linguistic descriptivism
+#### Linguistic normativity and linguistic descriptivism and prescriptivism
+
+What normative rules exist concerning the use of language? This is a context-dependent question with many different answers. Here are some examples of normative rules concerning language use that have existed in various contexts:
+
+* In the city-state of Ancient Athens, it was illegal for citizens to make statements denying the state religion.
+* In some monasteries, it has been against the monastic code of conduct to speak at all except in extreme situations.
+* In the times of the dominance of the Catholic Church, it has been illegal to contradict the positions of the Church.
+* In various communist states including the USSR and North Korea, it has been illegal (or at least likely to lead to imprisonment) to state political positions contradicting the communist party's line.
+* When writing an essay for school or a paper for an academic journal, generally there are various standards of grammar, spelling, citation convention, pronoun use, tone, etc. which are expected, with the consequence of violations usually being a lower likelihood of getting a good grade or getting published.
 
 #### Pronunciation, spelling, and grammar
 
