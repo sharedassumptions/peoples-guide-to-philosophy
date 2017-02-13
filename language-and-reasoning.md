@@ -73,6 +73,8 @@ What normative rules exist concerning the use of language? This is a context-dep
 
 We can see that there are and have been many normative rules concerning language use, embodying many different forms and degrees of normativity, all particular to some social context. We can name no universal normative rule concerning language; i.e., we can name no normative rule concerning language use which applies to all social contexts in history. This is apparent reflecting on the diversity and lack of commonality of the languages and cultures that have existed.
 
+In modern Western societies, we generally endorse a strong principle of freedom of speech, giving everybody the legal right to say almost anything they want (with exceptions](https://en.wikipedia.org/wiki/Shouting_fire_in_a_crowded_theater), including cases of [defamation](https://en.wikipedia.org/wiki/Defamation) and [copyright infringement](https://en.wikipedia.org/wiki/Copyright)).
+
 #### Pronunciation, spelling, and grammar
 
 #### Declarative sentences
