@@ -69,7 +69,7 @@ What normative rules exist concerning the use of language? This is a context-dep
 * In the times of the dominance of the Catholic Church, it has been illegal to contradict the positions of the Church.
 * In various communist states including the USSR and North Korea, it has been illegal (or at least likely to lead to imprisonment) to state political positions contradicting the communist party's line.
 * When writing an essay for school or a paper for an academic journal, generally there are various standards of grammar, spelling, citation convention, pronoun use, tone, etc. which are expected, with the consequence of violations usually being a lower likelihood of getting a good grade or getting published.
-* In most modern Western societies, the idea of white supremacy is something which people are free to advocate, but censure, hatred, and social exclusion tends to follow people who do so, meaning there is non-legal normative social pressure against advocating such positions.
+* In most modern Western societies, the idea of white supremacy is something which people are free to advocate, but censure, hatred, and social exclusion tends to follow people who do so, meaning there is extra-legal normative social pressure against advocating such positions.
 
 #### Pronunciation, spelling, and grammar
 
