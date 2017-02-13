@@ -75,7 +75,7 @@ We can see that there are and have been many normative rules concerning language
 
 In modern Western societies, we generally endorse a strong principle of freedom of speech, giving everybody the legal right to say almost anything they want (with [exceptions](https://en.wikipedia.org/wiki/Shouting_fire_in_a_crowded_theater), including cases like [defamation](https://en.wikipedia.org/wiki/Defamation), [conspiracy to commit treason](https://en.wikipedia.org/wiki/Treason), and [copyright infringement](https://en.wikipedia.org/wiki/Copyright)).
 
-In a free speech society, naturally people are free to violate grammar rules, to spell and pronounce words however they want, and to use words to mean whatever they want them to mean. People are free to make false statements, nonsensical statements, and so forth.
+In a free speech society, naturally people are free to violate grammar rules, to spell and pronounce words however they want, and to use words to mean whatever they want them to mean. People are free to make false statements, nonsensical statements, and so forth. In short, *within* a free speech society, there are (almost) no universal normative rules concerning language use.
 
 #### Pronunciation, spelling, and grammar
 
