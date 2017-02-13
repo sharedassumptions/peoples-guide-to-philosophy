@@ -71,6 +71,8 @@ What normative rules exist concerning the use of language? This is a context-dep
 * When writing an essay for school or a paper for an academic journal, generally there are various standards of grammar, spelling, citation convention, pronoun use, tone, etc. which are expected, with the consequence of violations usually being a lower likelihood of getting a good grade or getting published.
 * In most modern Western societies, the idea of white supremacy is something which people are free to advocate, but censure, hatred, and social exclusion tends to follow people who do so, meaning there is extralegal normative social pressure against advocating such positions.
 
+We can see that there are and have been many normative rules concerning language use, embodying many different forms and degrees of normativity, all particular to some social context. We can name no universal normative rule concerning language; i.e., we can name no normative rule concerning language use which applies to all social contexts in history. This is apparent reflecting on the diversity and lack of commonality of the languages and cultures that have existed.
+
 #### Pronunciation, spelling, and grammar
 
 #### Declarative sentences
