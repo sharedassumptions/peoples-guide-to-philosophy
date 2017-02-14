@@ -77,6 +77,10 @@ In modern Western societies, we generally endorse a strong principle of freedom 
 
 In a free speech society, naturally people are free to violate grammar rules, to spell and pronounce words however they want, and to use words to mean whatever they want them to mean. People are free to make false statements, nonsensical statements, and so forth. In short, *within* a free speech society, there are (almost) no universal normative rules concerning language use.
 
+The existence, on the one hand, of normative rules of language use, and the lack of universal normative rules of language use in free speech societies and the world as a whole, provide the basis for a number of intellectual perspectives on language.
+
+The first perspective is the perspective of linguistic prescriptivism. A linguistic prescriptivist sees themselves as a rulemaker for language, or as teacher and enforcer of rules of language handed down from original prescriptivists who wrote the rules. Original linguistic prescriptivists, i.e. authors of rules of language, can realize their vision of establishing and enforcing new norms of language use if their curriculum is enforced in public schools by decree of a government, and also if by consent within the free market of ideas they are able to achieve dominance of their prescribed language norms within some segment of the language universe.
+
 #### Pronunciation, spelling, and grammar
 
 #### Declarative sentences
