@@ -81,6 +81,8 @@ The existence, on the one hand, of normative rules of language use, and the lack
 
 The first perspective is the perspective of linguistic prescriptivism. A linguistic prescriptivist sees themselves as a rulemaker for language, or as teacher and enforcer of rules of language handed down from original prescriptivists who wrote the rules. Original linguistic prescriptivists, i.e. authors of rules of language, can realize their vision of establishing and enforcing new norms of language use if their curriculum is enforced in public schools by decree of a government, and also if by consent within the free market of ideas they are able to achieve dominance of their prescribed language norms within some segment of the language universe.
 
+The second perspective is the perspective of linguistic descriptivism. A linguistic descriptivist is somebody who sets about the task of describing how people use language. The descriptivist is concerned with how people *do* use language, as opposed to how they *should* use language. Therefore the descriptivist's task is to describe the regularities that exist in the language universe and its various parts, without the purpose of judging any language as good or bad.
+
 #### Pronunciation, spelling, and grammar
 
 #### Declarative sentences
