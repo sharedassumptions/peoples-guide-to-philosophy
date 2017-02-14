@@ -85,7 +85,7 @@ The second perspective is the perspective of linguistic descriptivism. A linguis
 
 Linguistic prescriptivists arguably have a role to play in society. One can argue for example that it's helpful to teach children grammar, and that prescriptive rules are a useful educational tool in many or all cases. Prescriptivists are limited in free speech societies by, of course, free speech, which prevents their rules from having the force of law. However, they can still achieve influence by consent outside of educational institutions, particularly if they manage to influence the influencers, i.e. influence the language styles of people who influence others' language styles. This will be the case if, for example, the prescriptivists educate those influencers and the influencers go on to stick with the patterns of language they were taught.
 
-Linguistic descriptivism is the basic intellectual perspective of modern academic studies of language. To my knowledge, present-day academic researchers almost never claim to have the authority to define normative rules for language use in general.
+Linguistic descriptivism is the basic intellectual perspective of modern academic studies of language. To my knowledge, present-day academic researchers almost never claim to have the authority to define normative rules for language use in general (though they may for example claim to have authority over the usage by other academics of jargon words they coin, which is a very narrow form of linguistic prescriptivism).
 
 #### Pronunciation, spelling, and grammar
 
