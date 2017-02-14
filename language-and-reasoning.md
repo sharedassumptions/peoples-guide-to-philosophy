@@ -83,7 +83,9 @@ The first perspective is the perspective of linguistic prescriptivism. A linguis
 
 The second perspective is the perspective of linguistic descriptivism. A linguistic descriptivist is somebody who sets about the task of describing how people use language. The descriptivist is concerned with how people *do* use language, as opposed to how they *should* use language. Therefore the descriptivist's task is to describe the regularities that exist in the language universe and its various parts, without the purpose of judging any language as good or bad.
 
-Linguistic prescriptivists arguably have a role to play in society. One can argue for example that it's helpful to teach children grammar, and that prescriptive rules are a useful educational tool in many or all cases. Prescriptivists are limited in free speech societies by, of course, free speech, which prevents their rules from having the force of law. However, they can still achieve influence by consent, particularly if they manage to influence the influencers, i.e. influence the language styles of people who influence others' language styles.
+Linguistic prescriptivists arguably have a role to play in society. One can argue for example that it's helpful to teach children grammar, and that prescriptive rules are a useful educational tool in many or all cases. Prescriptivists are limited in free speech societies by, of course, free speech, which prevents their rules from having the force of law. However, they can still achieve influence by consent outside of educational institutions, particularly if they manage to influence the influencers, i.e. influence the language styles of people who influence others' language styles. This will be the case if, for example, the prescriptivists educate those influencers and the influencers go on to stick with the patterns of language they were taught.
+
+Linguistic descriptivism is the basic intellectual perspective of modern academic studies of language. To my knowledge, present-day academic researchers almost never claim to have the authority to define normative rules for language use in general.
 
 #### Pronunciation, spelling, and grammar
 
