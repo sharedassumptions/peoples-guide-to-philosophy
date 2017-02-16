@@ -111,7 +111,7 @@ The argument above is an example of a *reductio ad absurdum* argument. A *reduct
 
 The argument above is a *reductio ad absurdum* argument in the looser sense. In the argument above, we first assume the view we wish to refute, and with a modest amount of information and background assumptions, we get to the conclusion that our assumption will likely lead us to accept many false things as true, something which makes most people want to back out of the assumption.
 
-The argument above is an example of a good argument. I expect the reader agrees: it is hard to disagree with the reasoning, or to disagree with the conclusion, at least after understanding the reasoning. One reason the argument is so strong is the simplicity and effectiveness of its structure, which is based on the *reductio ad absurdum* idea that is the basis of many good arguments.
+The argument above is an example of a good argument. I expect the reader agrees: it is hard to disagree with the reasoning, or to disagree with the conclusion, at least after understanding the reasoning. One reason the argument is so strong is the simplicity and effectiveness of its structure, which is based on the *reductio ad absurdum* idea that is the basis of many good arguments stretching back into ancient times.
 
 What makes an argument good? Chiefly, two things. First, that it is persuasive. Second, that its conclusion is probably going to be true, with whatever level of confidence is required by the situation. These are the qualities that we will value in arguments in our attempt to develop the technology of argumentation or reasoning.
 
