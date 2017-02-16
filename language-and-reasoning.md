@@ -99,6 +99,22 @@ Pronunciation and spelling are basically uninteresting topics from a philosophic
 
 ### Introduction to Reasoning
 
+What is reasoning? As a first stab, reasoning is the art of truthful persuasion. Reasoning, as we will think about it, is an area of technology concerned chiefly with constructing good arguments.
+
+What is an argument? An argument, for our purposes, is a series of statements that purports to provide evidence for the truth of some conclusion or conclusions stated in the argument. Here is an example of an argument:
+
+You shouldn't uncritically accept the conclusions of all scientific studies you come across. [Ioannidis (2005)](http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124) argues that most published research findings are false. If you uncritically accept the conclusions of all scientific studies you come across, then you should accept Ioannidis (2005). But if you uncritically accept Ioannidis (2005), then you accept that most scientific studies draw false conclusions, so you shouldn't uncritically accept the conclusions of all scientific studies you come across.
+
+Let's analyze this argument. It seeks to prove that you should not uncritically accept the conclusions of all scientific studies you come across. It proceeds by assuming the opposite of what it seeks to prove, and deriving an absurd result. It says, let's suppose we can uncritically accept the conclusions of all scientific studies we come across. The argument is based on the observation that if somebody thinks that way, you can make them believe anything that's said in a published scientific paper, and then it points out a paper, Ioannidis (2005), which is deeply problematic for the admittedly rather naive view on science we are here critiquing.
+
+This argument is an example of a *reductio ad absurdum* argument. A reductio ad absurdum argument, in a strict sense, is one that proceeds by assuming the negation of its conclusion, and deriving a logical contradiction thereby. In this case, we first assume the view we wish to refute, and with modest amount of information and background assumptions, we get to the conclusion that our assumption will likely lead us to accept many false things as true, something which makes most willing to back out of the assumption.
+
+This is an example of a good argument. I have never seen anybody rebut either the reasoning or the conclusion of the argument. One reason it is so strong is the simplicity and effectiveness of its structure, which is based on the *reductio ad absurdum* principle that is the basis of many good arguments.
+
+What makes an argument good? Chiefly, two things. First, that it is persuasive. Second, that its conclusion is probably going to be true, with whatever level of confidence is required by the situation. These are the qualities that we will value in arguments in our attempt to develop the technology of argumentation or reasoning.
+
+
+
 ## History of Language, Reasoning, and Their Study
 
 ## Language and Reasoning in Theory
