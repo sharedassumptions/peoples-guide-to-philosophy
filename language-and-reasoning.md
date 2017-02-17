@@ -103,7 +103,7 @@ What is reasoning? As a first stab, reasoning is the art of truthful persuasion.
 
 What is an argument? An argument, for our purposes, is a series of statements that purports to provide evidence for the truth of some conclusion or conclusions stated in the argument. Here is an example of an argument:
 
-You shouldn't uncritically accept the conclusions of all scientific studies you come across. [Ioannidis (2005)](http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124) argues that most published research findings are false. If you uncritically accept the conclusions of all scientific studies you come across, then you should accept Ioannidis (2005). But if you uncritically accept Ioannidis (2005), then you accept that most scientific studies draw false conclusions. So you shouldn't uncritically accept the conclusions of all scientific studies you come across, because if you do, you can expect to be adopting a lot of false beliefs.
+You shouldn't uncritically accept the conclusions of all scientific studies you come across. [Ioannidis (2005)](http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124) is a scientific study which claims that most published research findings are false. If you uncritically accept the conclusions of all scientific studies you come across, then you should accept Ioannidis (2005). But if you uncritically accept Ioannidis (2005), then you accept that most scientific studies draw false conclusions. So you shouldn't uncritically accept the conclusions of all scientific studies you come across, because if you do, you can expect to be adopting a lot of false beliefs.
 
 Let's analyze this argument. It seeks to prove that you should not uncritically accept the conclusions of all scientific studies you come across. It proceeds by assuming the opposite of what it seeks to prove, and deriving an absurd result. It grants for the sake of argument that we should uncritically accept the conclusions of all scientific studies we come across. The next move is based on the observation that if somebody thinks that way, you can make them believe anything that's said in a published scientific paper. The next move is to point out a paper, Ioannidis (2005), which will make us believe, under our sake-of-argument assumption, that most scientific studies conclude things that are false. With the further assumption that uncritically accepting information that's likely to be false is undesirable, we can refute the statement that we started by assuming.
 
@@ -113,9 +113,15 @@ The argument above is a *reductio ad absurdum* argument in the looser sense. In 
 
 The argument above is an example of a good argument. I expect the reader agrees: it is hard to disagree with the reasoning, or to disagree with the conclusion, at least after understanding the reasoning. One reason the argument is so strong is the simplicity and effectiveness of its structure, which is based on the *reductio ad absurdum* idea that is the basis of many good arguments stretching back to ancient times.
 
-What makes an argument good? Chiefly, two things. First, that it is persuasive: it causes people to believe its conclusion, the more reliably the better. Second, that its conclusion is probably going to be true, with whatever level of confidence is required by the situation. These are the qualities that we will value in arguments in our attempt to develop the technology of argumentation or reasoning.
+What makes an argument good? Chiefly, two things. First, that it is persuasive: it causes people to believe its conclusion, the more reliably the better. Second, that it is truth-tending: its conclusion is probably going to be true, with whatever level of confidence is required by the situation. Neither of these is more important than the other; both are requirements. In particular, a persuasive argument for a false conclusion is worse than nothing.
+
+These qualities, persuasiveness and truth-tending, are the primary qualities that we will value in arguments. We will always pursue these qualities in conjunction, and never separately.
+
+The concern with truth-tending is based on the premise that truth is valuable. This is undoubtedly true, as there are innumerable situations in which accurate information has substantial value for all kinds of important purposes. Most decision-making requires information, and decisions made on the basis of bad information, or bad analysis of information, are shown time and again to lead to bad outcomes. This is all common sense, I think.
 
 
+
+The primary question in the area of reasoning becomes for us, how can we develop good, persuasive, and truth-tending arguments? Our answer, in broad terms, is that good arguments are based on principles of reasoning which are valid or truth-tending in general, across all domains of inquiry.
 
 ## History of Language, Reasoning, and Their Study
 
