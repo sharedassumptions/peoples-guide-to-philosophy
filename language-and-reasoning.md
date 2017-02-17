@@ -121,7 +121,7 @@ I don't think it's obvious that there exist techniques which increase truth-tend
 
 Having made these distinctions, we are in a position to give the definition of reasoning that I will use in this book. I will use "reasoning" to refer to the set of techniques that allow us to construct arguments that are both persuasive and truth-tending.
 
-The question then becomes, what are the techniques of reasoning? Our definition does not presume that all techniques of reasoning are known, and in principle it doesn't assume that any such techniques are known. We will discuss argumentation techniques which I expect the reader will agree are both persuasive and truth-tending, and therefore deserve to be called reasoning techniques. However, I am not asking the reader to accept at this point that any such techniques exist.
+The question then becomes, what are the techniques of reasoning? Our definition does not presume that all techniques of reasoning are known, and in principle it doesn't assume that any such techniques are known. We will discuss argumentation techniques which I expect the reader will agree are both persuasive and truth-tending, and therefore deserve to be called reasoning techniques. However, I am not asking the reader to accept at this point that any such techniques exist, before we have discussed the reasons why the argumentation techniques we will describe as reasoning techniques deserve to be called that.
 
 ## History of Language, Reasoning, and Their Study
 
