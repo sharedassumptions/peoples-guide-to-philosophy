@@ -115,11 +115,11 @@ The argument above is an example of a good argument. I expect the reader agrees:
 
 What makes an argument good? Chiefly, two things. First, that it is persuasive: it causes people to believe its conclusion, the more reliably the better. Second, that it is truth-tending: its conclusion is probably going to be true, with whatever level of confidence is required by the situation. Neither of these is more important than the other; both are requirements. In particular, a persuasive argument for a false conclusion is worse than nothing.
 
-These qualities, persuasiveness and truth-tending, are the primary qualities that we will value in arguments. We will always pursue these qualities in conjunction, and never separately. That is, we will take no interest in techniques which increase truth-tending without increasing persuasiveness (which seem to be few if they exist at all), or in techniques which increase persuasiveness without increasing truth-tending (which constitute a highly developed field of human endeavor which poses many dangers to society).
+These qualities, persuasiveness and truth-tending, are the primary qualities that we will value in arguments. We will always pursue these qualities in conjunction, and never separately. That is, we will take no interest in techniques which increase truth-tending without increasing persuasiveness, or in techniques which increase persuasiveness without increasing truth-tending.
 
-The concern with truth-tending is based on the premise that truth is valuable. This is undoubtedly true, as there are innumerable situations in which accurate information has substantial value for all kinds of important purposes. Most decision-making requires information, and decisions made on the basis of bad information, or bad analysis of information, are shown time and again to lead to bad outcomes. This is all common sense, I think.
+I don't think it's obvious that there exist techniques which increase truth-tending without increasing persuasiveness. On the other hand, techniques which increase persuasiveness without increasing truth-tending certainly exist, and the people who use them are a present and ongoing threat to society. I will refer to these techniques collectively as *sophistry*.
 
-
+Having made these distinctions, we are in a position to give the definition of reasoning that I will use in this book. I will use "reasoning" to refer to the set of techniques that allow us to construct arguments that are both persuasive and truth-tending.
 
 The primary question in the area of reasoning becomes for us, how can we develop good, persuasive, and truth-tending arguments? Our answer, in broad terms, is that good arguments are based on principles of reasoning which are valid or truth-tending in general, across all domains of inquiry.
 
